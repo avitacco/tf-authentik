@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "authentik",
+        "certresolver",
+        "customrequestheaders",
+        "gunicorn",
+        "jobspec",
+        "letsencrypt",
+        "pgsql",
+        "poststart",
+        "prestart",
+        "Vitacco",
+        "websecure"
+    ]
+}
